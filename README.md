@@ -1,6 +1,6 @@
 # 🌿 Sanam Sarita Krishi tatha Pashupanchhi Farm
 
-## 📄 Description                    
+## 📄 Description                                     
 
 This repository contains the source code for the **official website** of Sanam Sarita
 Krishi tatha Pashupanchhi Farm, a real agricultural farm in **Nala, Banepa, Nepal**.
